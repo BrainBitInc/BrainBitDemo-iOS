@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B47292DDBCD11C1ADD18A4530BA15B679F60EDD6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B47292DDBCD11C1ADD18A4530BA15B679F60EDD6" : 0,
+    "B139EA68F2934969A8A8C30DB97B28729373828F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1096AD6C-E449-438F-A2CD-2C1A74789719",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B47292DDBCD11C1ADD18A4530BA15B679F60EDD6" : "BrainBitSDK-IOS\/",
+    "B139EA68F2934969A8A8C30DB97B28729373828F" : "BrainActivity"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BrainActivity",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BrainActivity.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ArchieGoodwin\/BrainActivity.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B139EA68F2934969A8A8C30DB97B28729373828F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BrainBitInc\/BrainBitSDK-IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B47292DDBCD11C1ADD18A4530BA15B679F60EDD6"
+    }
+  ]
+}
